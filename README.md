@@ -18,8 +18,9 @@ This setup ensures both load testing and real-world transaction performance test
 
 
 # Technology Used
-# Jmeter
-# Postman
+*Jmeter
+
+*Postman
 
 
 # Load and Stress Test Excel Report
