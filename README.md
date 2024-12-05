@@ -18,12 +18,14 @@ This setup ensures both load testing and real-world transaction performance test
 
 
 # Technology Used
--Jmeter
--Postman
+- Jmeter
+
+- Postman
 
 
 # Load and Stress Test Excel Report
 For the Load test and Stress test Excel report checkout the link, you will be directed to Google sheet and can see the results there.
+
 #Link : https://docs.google.com/spreadsheets/d/1JJYM3DkWfO0HgiYXKlvftrv8ZQnklS60NcbkBpLc8X8/edit?usp=sharing
 
 
