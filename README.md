@@ -1,6 +1,6 @@
 #Performance Testing
 #Introduction : In the performance testing test project, I took two APIs.
-1. Restful-Booker (Books API):
+1.Restful-Booker (Books API):
 Purpose: Load and stress testing.
 Test Setup:
 Simulate varying loads using threads to test response times under different traffic conditions.
