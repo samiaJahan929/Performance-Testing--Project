@@ -1,7 +1,7 @@
 # Performance Testing Using Jmeter
 
 
-# Introduction : 
+# Introduction 
 
 In the performance testing test project, I took two APIs.
 
