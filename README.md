@@ -40,8 +40,8 @@ Accept: */*
 ```
 
 - <h4>Login </h4>
-- <h3>URL : https://restful-booker.herokuapp.com/auth</h3>
-- <h3>Request Body</h3>
+- <h4>URL : https://restful-booker.herokuapp.com/auth</h4>
+- <h4>Request Body :</h4>
 
 
 ```console
@@ -51,9 +51,9 @@ Accept: */*
 }
 ```
 
-- <h3>Create Booking </h3>
-- <h3>URL : https://restful-booker.herokuapp.com/booking</h3>
-- <h3>Request Body</h3>
+- <h4>Create Booking </h4>
+- <h4>URL : https://restful-booker.herokuapp.com/booking</h4>
+- <h4>Request Body :</h4>
 
 ```console
 {
@@ -68,8 +68,10 @@ Accept: */*
 }
 ```
 
-- <h3>Search Booking </h3>
-- <h3>URL : https://restful-booker.herokuapp.com/booking/<booking_id </h3>
+- <h4>Search Booking </h4>
+- <h4>URL : https://restful-booker.herokuapp.com/booking/<booking_id </h4>
+
+
 
 - Configured API for login, booking creation, and booking search in Jmeter
 - Used a Gaussian Random Timer for simulating realistic user behavior
