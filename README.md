@@ -33,7 +33,7 @@ For the Load test and Stress test Excel report checkout the link, you will be di
 
 
 # HTML Report Generate :
-# Generated HTML report for Load Test
+**Generated HTML report for Load Test**
 ![image](https://github.com/user-attachments/assets/86e44040-2810-462e-8755-eb8d0905677b)
 
 
