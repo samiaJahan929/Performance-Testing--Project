@@ -42,8 +42,6 @@ Accept: */*
 - <h4>Login </h4>
 - <h4>URL : https://restful-booker.herokuapp.com/auth</h4>
 - <h4>Request Body :</h4>
-
-
 ```console
 {
 "username": "admin",
@@ -54,7 +52,6 @@ Accept: */*
 - <h4>Create Booking </h4>
 - <h4>URL : https://restful-booker.herokuapp.com/booking</h4>
 - <h4>Request Body :</h4>
-
 ```console
 {
 "firstname": "Generate Random FirstName",
@@ -67,11 +64,10 @@ Accept: */*
 }
 }
 ```
-
 - <h4>Search Booking </h4>
-- <h4>URL : https://restful-booker.herokuapp.com/booking/<booking_id </h4>
+- <h4>URL : https://restful-booker.herokuapp.com/booking/<booking_id&gt; </h4>
 
-
+Perform Performance testing for the following scenario:
 
 - Configured API for login, booking creation, and booking search in Jmeter
 - Used a Gaussian Random Timer for simulating realistic user behavior
