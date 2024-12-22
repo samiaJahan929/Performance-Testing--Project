@@ -67,9 +67,9 @@ Accept: */*
 - <h4>Search Booking </h4>
 - <h4>URL : https://restful-booker.herokuapp.com/booking/<booking_id&gt; </h4>
 
-Perform Performance testing for the following scenario:
+<b> Perform Performance testing for the following scenario: </b>
 
-- Configured API for login, booking creation, and booking search in Jmeter
+- 120,000 users over a 12-hour period log in, create a booking, and search for the booking. 
 - Used a Gaussian Random Timer for simulating realistic user behavior
 - Conducted load tests with increasing durations (5, 10, and 20 minutes)
 - Conducted stress tests to identify the server's bottleneck throughput
