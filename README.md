@@ -32,7 +32,7 @@ This setup ensures both load testing and real-world transaction performance test
 
 # Test Case scenario for Booking API 
 <h3> Create a JMeter Collection of Login API, Create booking , Search booking HTTP requests</h3>
- Add the following properties to the Header Controller
+ Add the following properties to the Header Controller : 
 
 ```console
 
@@ -41,14 +41,50 @@ Accept: */*
 
 - <h3>Login </h3>
 
-- <h3>Pre Request Script</h3>
 URL : https://restful-booker.herokuapp.com/auth
+- <h3>Pre Request Script</h3>
 
 
 ```console
 {
 "username": "admin",
 "password": "password123"
+}
+```
+
+- <h3>Create Booking </h3>
+
+URL : https://restful-booker.herokuapp.com/booking
+- <h3>Pre Request Script</h3>
+
+```console
+{
+"firstname": "Generate Random FirstName",
+"lastname": "Generate Random LastName",
+"totalprice": Generate random amount,
+"depositpaid": true,
+"bookingdates": {
+"checkin": "2024-01-01",
+"checkout": "2024-01-02"
+}
+}
+```
+
+- <h3>Search Booking </h3>
+
+URL : https://restful-booker.herokuapp.com/booking/<booking_id&gt;
+- <h3>Pre Request Script</h3>
+
+```console
+{
+"firstname": "Generate Random FirstName",
+"lastname": "Generate Random LastName",
+"totalprice": Generate random amount,
+"depositpaid": true,
+"bookingdates": {
+"checkin": "2024-01-01",
+"checkout": "2024-01-02"
+}
 }
 ```
 
