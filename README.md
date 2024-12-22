@@ -76,7 +76,10 @@ Accept: */*
 - Generated HTML and Excel reports for both load and stress tests
 
 # Test Case scenario for DMoney Booking API 
-
+- Set up scenarios for deposits, send money, and merchant payments
+- Used dynamic data from CSV files to simulate real-life transactions
+- Added assertions to ensure transaction success
+- Created a multi-threaded environment with a ramp-up period for realistic simulation
 
 
 # Load and Stress Test Excel Report
