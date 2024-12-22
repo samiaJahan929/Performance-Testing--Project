@@ -5,27 +5,42 @@
 
 In the performance testing test project, I took two APIs.
 
-<h3>1.Restful-Booker (Books API):</h3>
+<h3>1. Restful-Booker (Books API):</h3>
 
-- Purpose: Load and stress testing
+- Purpose: Load and stress testing.
   
 - Test Setup:
    - Simulate varying loads using threads to test response times under different traffic conditions.
    - Use HTTP requests (GET, POST, PUT, DELETE) and validate responses with assertions.
 
-2.Dmoney (Website Transaction API):
-Purpose: API chaining for transactions (Deposit, SendMoney, Payment).
-Test Setup:
-Use CSV Data files to run dynamic transaction data.
-Simulate multiple transactions using three threads to concurrently run Deposit, SendMoney, and Payment APIs in a chain.
+<h3>2.Dmoney (Website Transaction API):</h3>
+
+- Purpose: API chaining for transactions (Deposit, SendMoney, Payment).
+  
+- Test Setup:
+  - Use CSV Data files to run dynamic transaction data.
+  - Simulate multiple transactions using three threads to concurrently run Deposit, SendMoney, and Payment APIs in a chain.
 
 This setup ensures both load testing and real-world transaction performance testing using JMeter.
 
 
 # Technology Used
-- Jmeter
+- Java Development Kit (JDK)
+
+- Apache Jmeter
 
 - Postman
+
+
+# Test Case scenario for Booking API 
+<h3> Create a JMeter Collection </h3>
+
+- Configured API for login, booking creation, and booking search in Jmeter
+- Used a Gaussian Random Timer for simulating realistic user behavior
+- Conducted load tests with increasing durations (5, 10, and 20 minutes)
+- Conducted stress tests to identify the server's bottleneck throughput
+- Generated HTML and Excel reports for both load and stress tests
+
 
 
 # Load and Stress Test Excel Report
