@@ -26,9 +26,7 @@ This setup ensures both load testing and real-world transaction performance test
 
 # Technology Used
 - Java Development Kit (JDK)
-
 - Apache Jmeter
-
 - Postman
 
 
