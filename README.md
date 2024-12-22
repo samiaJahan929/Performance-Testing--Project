@@ -33,7 +33,9 @@ This setup ensures both load testing and real-world transaction performance test
 
 
 # Test Case scenario for Booking API 
-<h3> Create a JMeter Collection </h3>
+<h3> Create a JMeter Collection of Login API, Create booking , Search booking HTTP requests</h3>
+ Add the following properties to the Header Controller:
+>  Accept: */*
 
 - Configured API for login, booking creation, and booking search in Jmeter
 - Used a Gaussian Random Timer for simulating realistic user behavior
