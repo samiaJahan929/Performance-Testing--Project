@@ -6,7 +6,7 @@
 In the performance testing test project, I took two APIs.
 
 <h3>1.Restful-Booker (Books API):</h3>
-* Purpose: Load and stress testing.
+*Purpose: Load and stress testing.
 * Test Setup:
    -  Simulate varying loads using threads to test response times under different traffic conditions.
    -  Use HTTP requests (GET, POST, PUT, DELETE) and validate responses with assertions.
