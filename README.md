@@ -35,7 +35,7 @@ This setup ensures both load testing and real-world transaction performance test
  Add the following properties to the Header Controller:
 
    
-  (')Accept: */* 
+  (') Accept: */*  (')
   
   
 
