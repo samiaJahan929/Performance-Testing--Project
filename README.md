@@ -5,7 +5,7 @@
 
 In the performance testing test project, I took two APIs.
 
-<h3>1. Restful-Booker (Books API):</h3>
+<h3>1. Restful-Booker (Booking API):</h3>
 
 - Purpose: Load and stress testing.
   
@@ -74,6 +74,8 @@ Accept: */*
 - Conducted load tests with increasing durations (5, 10, and 20 minutes)
 - Conducted stress tests to identify the server's bottleneck throughput
 - Generated HTML and Excel reports for both load and stress tests
+
+# Test Case scenario for DMoney Booking API 
 
 
 
