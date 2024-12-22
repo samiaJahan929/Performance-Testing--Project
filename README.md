@@ -39,14 +39,13 @@ This setup ensures both load testing and real-world transaction performance test
 Accept: */*
 ```
 
-<h3>-  Login </h3>
+- <h3>Login </h3>
 
-<h3>- Pre Request Script</h3>
+- <h3>Pre Request Script</h3>
 URL : https://restful-booker.herokuapp.com/auth
 
 
 ```console
-Body:
 {
 "username": "admin",
 "password": "password123"
