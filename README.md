@@ -4,7 +4,7 @@
 - [Introduction](#Introduction)
    - [Restful-Booker (Booking API)](#Restful-Booker (Booking API))
    - [Dmoney (Website Transaction API)](#Dmoney (Website Transaction API))
-- [Technology Used](#TechnologyUsed)
+- [Technology Used](#Technology-Used)
 - [Test Case scenario for Booking API ](#TestCasescenarioforBookingAPI)
    - [Login)](#Login)
    - [Create Booking)](#CreateBooking)
