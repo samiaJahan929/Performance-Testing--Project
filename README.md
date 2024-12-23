@@ -87,12 +87,17 @@ This guide provides step-by-step instructions for setting up and running perform
 
 - Download and Install latest version of "Apache JMeter"
 - Extract the archive to your preferred directory
-- Ensure JDK is Installed**
+- Ensure JDK is Installed
    - Verify JDK is installed by running:
      ```bash
      java -version
      ```
    - Install JDK if it is not already available on your system.
+- Place the `.jmx` test plan files and `.csv` test data files in a dedicated directory.
+- Open the `.jmx` files in JMeter
+
+<h4>Test Setup for Booking API</h4> 
+
 
 
 
