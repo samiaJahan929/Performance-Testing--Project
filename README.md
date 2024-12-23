@@ -2,7 +2,7 @@
 
 # Content 
 - [Introduction](#Introduction)
-   - [Restful-Booker (Booking API)](https://github.com/samiaJahan929/Performance-Testing--Project/edit/main/README.md#restful-booker-booking-api)
+   - [Restful-Booker (Booking API)](https://github.com/samiaJahan929/Performance-Testing--Project/edit/main/README.md#restful-booker-booking-api).
    - [Dmoney (Website Transaction API)](#Dmoney (Website Transaction API))
 - [Technology Used](#Technology-Used)
 - [Test Case scenario for Booking API ](#TestCasescenarioforBookingAPI)
