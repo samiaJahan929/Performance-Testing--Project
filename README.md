@@ -110,6 +110,7 @@ This guide provides step-by-step instructions for setting up and running perform
 - Update the **Header Manager** in the test plan with a valid API token for authorization.
 
 <h4>Run the Tests</h4> 
+
 - Start Apache JMeter from the terminal 
 - Open the `.jmx` file, such as `booking.jmx` or `dmoney.jmx`.
 - Click the **Start** button to execute the test.
