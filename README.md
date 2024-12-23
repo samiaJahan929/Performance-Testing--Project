@@ -11,7 +11,7 @@
    - [Search Booking)](#search-booking-)
    - [Scenario for Booking API)](#test-case-scenario-for-booking-api)
       
-- [Test Case scenario for DMoney API ](#test-case-scenario-for-dmoney-api)
+- [Test Case Scenario for DMoney API ](#test-case-scenario-for-dmoney-api)
 - [How to Run the Test](#how-to-run-the-test)
 - [Load and Stress Test Excel Report](#load-and-stress-test-excel-report)
 - [HTML Report Generate](#html-report-generate-)
@@ -97,7 +97,7 @@ Accept: */*
 - Conducted stress tests to identify the server's bottleneck throughput
 - Generated HTML and Excel reports for both load and stress tests
 
-# Test Case scenario for DMoney API 
+# Test Case Scenario for DMoney API 
 - Set up scenarios for deposits, send money, and merchant payments
 - Used dynamic data from CSV files to simulate real-life transactions
 - Added assertions to ensure transaction success
