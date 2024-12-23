@@ -98,7 +98,23 @@ This guide provides step-by-step instructions for setting up and running perform
 
 <h4>Test Setup for Booking API</h4> 
 
+- Ensure URLs are Accessible.
+- Review and adjust the random data generators in the test plan to match booking details requirements.
 
+<h4>Test Setup for Dmoney API</h4> 
+
+- The following `.csv` files with valid test data:
+     - `deposit.csv`
+     - `sendMoney.csv`
+     - `payment.csv`
+- Update the **Header Manager** in the test plan with a valid API token for authorization.
+
+<h4>Run the Tests</h4> 
+- Start Apache JMeter from the terminal 
+- Open the `.jmx` file, such as `booking.jmx` or `dmoney.jmx`.
+- Click the **Start** button to execute the test.
+- Monitor test progress in the **View Results Tree** or **Summary Report**.
+- Save the test results as an HTML report for analysis.
 
 
 # Load and Stress Test Excel Report
