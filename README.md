@@ -14,7 +14,10 @@
 - [Test Case scenario for DMoney Booking API ](#test-case-scenario-for-dmoney-booking-api)
 - [How to Run the Test](#how-to-run-the-test)
 - [Load and Stress Test Excel Report](#load-and-stress-test-excel-report)
-- [HTML Report Generate](
+- [HTML Report Generate](#html-report-generate-)
+   - [Load Test Report](#-generated-html-report-for-load-test-)
+   - [Stress Test Report(#generated-html-report-for-stress-test-)
+- [HTML Report for DMoney API](#generated-html-report-for-dmoney-jmeter-collection-test)
 
 
 
