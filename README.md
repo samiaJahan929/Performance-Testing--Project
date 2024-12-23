@@ -114,7 +114,7 @@ This guide provides step-by-step instructions for setting up and running perform
 - Start Apache JMeter from the terminal 
 - Open the `.jmx` file, such as `booking.jmx` or `dmoney.jmx`.
 - Click the **Start** button to execute the test.
-- Monitor test progress in the **View Results Tree** or **Summary Report**.
+- Monitor test progress in the ***View Results Tree*** or ***Summary Report***.
 - Save the test results as an HTML report for analysis.
 
 
