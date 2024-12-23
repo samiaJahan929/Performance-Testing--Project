@@ -16,7 +16,7 @@
 - [Load and Stress Test Excel Report](#load-and-stress-test-excel-report)
 - [HTML Report Generate](#html-report-generate-)
    - [Load Test Report](#-generated-html-report-for-load-test-)
-   - [Stress Test Report(#generated-html-report-for-stress-test-)
+   - [Stress Test Report](#generated-html-report-for-stress-test-)
 - [HTML Report for DMoney API](#generated-html-report-for-dmoney-jmeter-collection-test)
 
 
