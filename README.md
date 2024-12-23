@@ -81,6 +81,20 @@ Accept: */*
 - Added assertions to ensure transaction success
 - Created a multi-threaded environment with a ramp-up period for realistic simulation
 
+# How to Run the Test
+
+This guide provides step-by-step instructions for setting up and running performance tests using Apache JMeter.
+
+- Download and Install latest version of "Apache JMeter"
+- Extract the archive to your preferred directory
+- Ensure JDK is Installed**
+   - Verify JDK is installed by running:
+     ```bash
+     java -version
+     ```
+   - Install JDK if it is not already available on your system.
+
+
 
 # Load and Stress Test Excel Report
 For the Load test and Stress test Excel report checkout the link, you will be directed to Google sheet and can see the results there.
