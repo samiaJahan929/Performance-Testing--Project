@@ -7,7 +7,7 @@
 - [Technology Used](#Technology-Used)
 - [Test Case scenario for Booking API ](#test-case-scenario-for-booking-api)
    - [Login)](#login-)
-   - [Create Booking)](#CreateBooking)
+   - [Create Booking)](#create-booking-)
    - [Search Booking)](#SearchBooking)
    - [scenario)](#scenario)
 
