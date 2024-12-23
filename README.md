@@ -102,6 +102,13 @@ Accept: */*
 - Used dynamic data from CSV files to simulate real-life transactions
 - Added assertions to ensure transaction success
 - Created a multi-threaded environment with a ramp-up period for realistic simulation
+  
+<b> Perform Performance testing for the following scenario: </b>
+
+- 5 agents perform deposits for 10 customers.
+- 5 customers send money to another 10 customers.
+- 5 customers make payments to 2 merchants.
+- Set the ramp-up time to 120 seconds in all the above thread configuration.
 
 # How to Run the Test
 
